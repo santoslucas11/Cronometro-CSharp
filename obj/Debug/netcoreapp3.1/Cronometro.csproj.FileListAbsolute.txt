@@ -1,0 +1,13 @@
+C:\dev\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.exe
+C:\dev\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.deps.json
+C:\dev\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.runtimeconfig.json
+C:\dev\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.runtimeconfig.dev.json
+C:\dev\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.dll
+C:\dev\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.pdb
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.csprojAssemblyReference.cache
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.AssemblyInfoInputs.cache
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.AssemblyInfo.cs
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.csproj.CoreCompileInputs.cache
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.dll
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.pdb
+C:\dev\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.genruntimeconfig.cache
